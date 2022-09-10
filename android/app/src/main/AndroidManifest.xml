@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.morpheus.tithe_box">
    <application
-        android:label="tithe_box"
+        android:label="Tithe Box"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
